@@ -19,11 +19,11 @@
         <a href="index.html"><span>GAME ZONE</span></a>
         <nav>
             <ul>
-                <li><a href="index.html">Strona główna</a></li>
-                <li><a href="produkty.php">Produkty</a></li>
-                <li><a href="koszyk.php">Koszyk</a></li>
-                <li><a href ="galeria.php">Galeria</a></li>
-                <li><a href="onas.php">O nas</a></li>
+                <li><a href="/index.html">Strona główna</a></li>
+                <li><a href="/produkty.php">Produkty</a></li>
+                <li><a href="/koszyk.php">Koszyk</a></li>
+                <li><a href ="/galeria.php">Galeria</a></li>
+                <li><a href="/onas.php">O nas</a></li>
             </ul>
         </nav>
     </div>
